@@ -19,7 +19,9 @@ const float a2 = 1.1600e-07;
 const float a1 = 4.4880e-12; 
 
 // Parametros de sustentacao
-const float kt = 1.719e-08; // Ns2
+
+const float kl = 1.719e-08; // Ns2
+
 const float kd=1.396e-10; // Nms2
 
 #endif
